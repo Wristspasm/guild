@@ -12,7 +12,7 @@ These are Calamity's rules.
 - [6 Hypixel Rules - Cheats](#6-hypixel-rules---cheats)
 
 # 1 Overview
-1. A warning is a written or verbal message from a staff member directed at one or more members that clearly outline an action that do not comply with the rules.
+1. A warning is a written or verbal message from a staff member directed at one or more members that clearly outline an action that does not comply with the rules.
 2. The rules apply globally. This includes ingame, Discord, and private chats such as DMs or groupchats.
 3. If you receive a punishment, it will also apply globally. For example, if you are muted ingame, you will also be muted on Discord. And vice versa.
 4. The rules apply regardless of your state of being. Being drunk or high is not a valid excuse for commiting infractions.
