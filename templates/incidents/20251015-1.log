@@ -1,6 +1,7 @@
-type=ban
+type=
+duration=
 violations=
-players=amelex_yt, einartxr
+players=
 attachments=
 related-incidents=
 description=
