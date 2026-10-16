@@ -28,24 +28,24 @@ This is Calamity's code of conduct.
 	- to act mature
 	- to possess critical thinking and decision making skills
 	- to be active
-4. There will be 3 moderators. The current moderators are:
+3. There will be 3 moderators. The current moderators are:
    - Bfvarroe <@268206514576162818>
    - Pyus <@268855497682190336>
    - neungramm <@639875308794806312>
-5. The responsibilities of moderators are:
+4. The responsibilities of moderators are:
 	- to maintain a safe environment for all members across all platforms
 	- to ensure all members are following guild rules
 	- to resolve conflict
 	- to vote on guild altering decisions
-6. Guild altering decision will be made by the Guild Master. If the Guild Master is unable to make a decision, the Guild Master will consult the moderators. If the moderators cannot reach a consensus, the moderators will participate in a vote, and the decision will be decided by majority rule.
+5. Guild altering decision will be made by the Guild Master. If the Guild Master is unable to make a decision, the Guild Master will consult the moderators. If the moderators cannot reach a consensus, the moderators will participate in a vote, and the decision will be decided by majority rule.
 
 **Note: The current Guild Master, CatboyDark <@622326625530544128>, voluntarily forfeits all decision making rights regarding ongoing infraction discussions. They are limited to providing relevant information, and they may not attempt to influence the decisions made by the moderators in any way. This is done because they are unable to remain unbiased when deciding members' fates.**
 
 
-8. There may be 1 or more developers. The current developer is DuckySoLucky <@486155512568741900>. However, they are not currently hosting the guild bot.
-9. The responsibilities of developers are:
+6. There may be 1 or more developers. The current developer is DuckySoLucky <@486155512568741900>. However, they are not currently hosting the guild bot.
+7. The responsibilities of developers are:
 	- to maintain uptime and functionality of software as required by the guild
-10. Staff rank may be removed from staff members by the Guild Master. Reasons may include:
+8. Staff rank may be removed from staff members by the Guild Master. Reasons may include:
 	- displaying inactivity
 	- displaying aggregiously poor decision making or reasoning
 	- commiting infractions
@@ -53,3 +53,5 @@ This is Calamity's code of conduct.
 # 4 Rules and Infractions
 1. Infractions are separated into two categories: minor and major. The category of an infraction will be decided on a case to case basis. Minor infractions will recieve a warning before punishment.
 2. Infractions may be reported via ...
+3. Bans and kicks
+4. Appeals
