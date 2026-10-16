@@ -1,4 +1,4 @@
-This is Calamity's code of conduct.
+This is Calamity's guild manual.
 - It is not exhaustive.
 - It may be updated at any time.
 - All punishments are dealt at staff's discretion.
