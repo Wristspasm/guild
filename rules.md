@@ -29,6 +29,10 @@ These are Calamity's rules.
 	- This includes sexually suggestive drawings. 
 # 5 Slurs and Hate Speech
 1. Use of racial, homophobic, or any other derogatory slurs is not allowed.
+
+Use of slurs directed at a member will result in an instant ban.
+
+Use of slurs not directed at a member will result in ...
 # 6 Hypixel Rules - Cheats
 1. Use of cheats will not be punished.
 2. General discussion of cheats is allowed.
